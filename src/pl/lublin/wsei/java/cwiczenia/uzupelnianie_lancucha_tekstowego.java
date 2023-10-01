@@ -2,7 +2,7 @@ package pl.lublin.wsei.java.cwiczenia;
 
 import java.util.Scanner;
 
-public class Pobieranietekstuzseparatorem {
+public class uzupelnianie_lancucha_tekstowego {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
